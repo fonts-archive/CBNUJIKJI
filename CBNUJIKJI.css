@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'CBNU JIKJI';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/CBNUJIKJI/CBNUJIKJI.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CBNUJIKJI/CBNUJIKJI.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CBNUJIKJI/CBNUJIKJI.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CBNUJIKJI/CBNUJIKJI.ttf') format('truetype');
+}
